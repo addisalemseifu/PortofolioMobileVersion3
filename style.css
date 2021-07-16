@@ -139,6 +139,21 @@ img {
   flex-direction: row;
   justify-content: flex-start;
   padding: 0;
+  text-decoration: none;
+}
+
+.platform-list1 {
+  width: auto;
+  height: 36px;
+  margin-left: 0;
+  margin-right: 12px;
+  margin-top: -28px;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+  text-decoration: none;
 }
 
 .html-p1 {
@@ -151,6 +166,7 @@ img {
   text-align: center;
   line-height: 16px;
   letter-spacing: 0.03em;
+  text-decoration: none;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -172,6 +188,7 @@ img {
   text-align: center;
   line-height: 16px;
   letter-spacing: 0.03em;
+  text-decoration: none;
   flex: none;
   order: 0;
   flex-grow: 0;
@@ -214,6 +231,7 @@ img {
   font-family: poppins, sans-serif;
   font-weight: 500;
   font-style: normal;
+  text-decoration: none;
   font-size: 17px;
   line-height: 24px;
   text-align: center;
@@ -222,6 +240,19 @@ img {
   color: #396df2;
   border: 1px solid #396df2;
   border-radius: 16px;
+}
+
+.see-project-p1:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+.see-project-p1:active {
+  text-decoration: underline;
+}
+
+.see-project-p1:selection {
+  text-decoration: underline;
 }
 
 .page-2 {
@@ -367,6 +398,20 @@ img {
   padding: 0;
 }
 
+.platform-list2 {
+  width: auto;
+  height: 36px;
+  margin-left: 0;
+  margin-right: 12px;
+  margin-top: -28px;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+  text-decoration: none;
+}
+
 .html-p2 {
   width: 40px;
   height: 16px;
@@ -441,6 +486,7 @@ img {
   font-weight: 500;
   font-style: normal;
   font-size: 17px;
+  text-decoration: none;
   line-height: 24px;
   text-align: center;
   align-items: center;
@@ -448,6 +494,19 @@ img {
   color: #396df2;
   border: 1px solid #396df2;
   border-radius: 16px;
+}
+
+.see-project-p2:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+.see-project-p2:active {
+  text-decoration: underline;
+}
+
+.see-project-p2:selection {
+  text-decoration: underline;
 }
 
 .page-3 {
@@ -593,6 +652,20 @@ img {
   padding: 0;
 }
 
+.platform-list3 {
+  width: auto;
+  height: 36px;
+  margin-left: 0;
+  margin-right: 12px;
+  margin-top: -28px;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+  text-decoration: none;
+}
+
 .html-p3 {
   width: 40px;
   height: 16px;
@@ -668,12 +741,26 @@ img {
   font-style: normal;
   font-size: 17px;
   line-height: 24px;
+  text-decoration: none;
   text-align: center;
   align-items: center;
   letter-spacing: 0.03em;
   color: #396df2;
   border: 1px solid #396df2;
   border-radius: 16px;
+}
+
+.see-project-p3:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+.see-project-p3:active {
+  text-decoration: underline;
+}
+
+.see-project-p3:selection {
+  text-decoration: underline;
 }
 
 .page-4 {
@@ -819,6 +906,20 @@ img {
   padding: 0;
 }
 
+.platform-list4 {
+  width: auto;
+  height: 36px;
+  margin-left: 0;
+  margin-right: 12px;
+  margin-top: -28px;
+  margin-bottom: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0;
+  text-decoration: none;
+}
+
 .html-p4 {
   width: 40px;
   height: 16px;
@@ -895,11 +996,25 @@ img {
   font-size: 17px;
   line-height: 24px;
   text-align: center;
+  text-decoration: none;
   align-items: center;
   letter-spacing: 0.03em;
   color: #396df2;
   border: 1px solid #396df2;
   border-radius: 16px;
+}
+
+.see-project-p4:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+.see-project-p4:active {
+  text-decoration: underline;
+}
+
+.see-project-p4:selection {
+  text-decoration: underline;
 }
 
 .about-section {
@@ -981,6 +1096,7 @@ li {
   font-weight: 500;
   font-style: normal;
   font-size: 17px;
+  text-decoration: none;
   line-height: 24px;
   text-align: center;
   align-items: center;
@@ -988,6 +1104,19 @@ li {
   color: #396df2;
   border: 1px solid #396df2;
   border-radius: 10px;
+}
+
+.get-resume:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+.get-resume:active {
+  text-decoration: underline;
+}
+
+.get-resume:selection {
+  text-decoration: underline;
 }
 
 .resume {
